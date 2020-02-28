@@ -1,0 +1,2 @@
+# channel-sounding
+Good day everyone. I am working on wireless radio channel measurements (Investigating multipath and small scale in complex building)for my project. I want to use sliding correlator channel sounder flow graph (GNU Radio). The USRP frequency range is 500MHz to 2.2GHz. Pls, I need help for appropriate flow graph for this project. I am a beginner. Helper will be appreciated and acknowledged. Thanks
